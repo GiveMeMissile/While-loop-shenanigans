@@ -1,0 +1,15 @@
+meme = input("What is the state that was turned into a shitty meme: ")
+while meme == ("Ohio"):
+    print("Congrats, you know Shitty memes")
+    meme1 = input("What is the name of the popular meme icon which is also connected to trolling: ")
+    while meme1 == ("Troll Face"):
+        print("Lets keep going")
+        meme2 = input("What is the WORST MEME EVER!?!?!?: ")
+        while meme2 == ("Skibidi Toilet"):
+            print("Im sorry that you know of this nightmare")
+        else:
+            print("You don't know. Keep it that way")
+    else:
+        print("Incorrect, Try again")
+else:
+    print("Incorrect, Try again, (Use capitals)")
