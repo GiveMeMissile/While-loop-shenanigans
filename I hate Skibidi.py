@@ -1,6 +1,6 @@
-meme = input("What is the state that was turned into a shitty meme: ")
+meme = input("What is the state that was turned into a dumb meme: ")
 while meme == ("Ohio"):
-    print("Congrats, you know Shitty memes")
+    print("Congrats, you know dumb memes")
     meme1 = input("What is the name of the popular meme icon which is also connected to trolling: ")
     while meme1 == ("Troll Face"):
         print("Lets keep going")
