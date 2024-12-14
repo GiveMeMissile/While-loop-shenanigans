@@ -1,3 +1,4 @@
+# This is my first ever real program. Wow this sucks.
 v = 2
 while(v == 2):
     meme = input("What is the state that was turned into a dumb meme: ")
